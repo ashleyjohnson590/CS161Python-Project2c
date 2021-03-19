@@ -1,0 +1,145 @@
+Assignment 2 Rubric (1)
+Criteria	Ratings	Pts
+Code Style Deductions: Used single letter variable names. Known math symbols are okay. -2 Points
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deductions: Did not follow name case conventions such as snake_case. -1 Point
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deduction: Each wrong file name. -1 Point
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Code Style Deductions: For each file without required comment headers. (Including inaccurate descriptions.) -1 Point
+0 pts
+Full Marks
+Meets style guidelines
+0 pts
+Point Deduction
+0 / 0 pts
+Project 2a: Used the input( ) function correctly.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2a: Correctly cast input to numeric type.
+5 pts
+Full Marks
+0 pts
+No Marks
+5 / 5 pts
+Project 2a: Stored user responses in five variables. (Or used another method to correctly keep track of the input.)
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2a: Correctly created an expression to calculate the average.
+9 to >8 pts
+Full Marks
+8 to >0 pts
+Partial Marks
+0 pts
+No Marks
+9 / 9 pts
+Project 2a: Used the print( ) function correctly
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2a Deduction: Used a loop or list as these are concepts not covered yet. -3 points
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Project 2b: Used the input( ) function correctly
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2b: Correctly cast input to numeric type.
+5 pts
+Full Marks
+0 pts
+No Marks
+5 / 5 pts
+Project 2b: Stored user responses in a variable.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2b: Correctly created an expression to calculate the temperature conversion.
+9 to >8 pts
+Full Marks
+8 to >0 pts
+Partial Marks
+0 pts
+No Marks
+9 / 9 pts
+Project 2b: Used the print( ) function correctly.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2c: Used the input( ) function correctly.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2c: Correctly cast input to integer type.
+5 pts
+Full Marks
+0 pts
+No Marks
+5 / 5 pts
+Project 2c: Created variables to hold calculated values for each coin.
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Project 2c: Correctly calculated coin totals.
+9 to >8 pts
+Full Marks
+8 to >0 pts
+Partial Marks
+0 pts
+No Marks
+9 / 9 pts
+Project 2c: Produce correct output to screen. (No penalty for insignificant differences like extra spaces.)
+2 pts
+Full Marks
+0 pts
+No Marks
+2 / 2 pts
+Late Project Deduction (within 48 hours)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Deduction: Typos/incorrect formatting (Including extraneous/incorrect print statements). (-6 Points)
+0 pts
+Full Marks
+0 pts
+Point Deduction
+0 / 0 pts
+Total Points: 60
